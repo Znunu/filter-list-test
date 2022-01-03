@@ -1,4 +1,2 @@
 [Adblock Plus 2.0]
-!------------------------Specific element hiding rules------------------------!
-! *** easylist:easylist/easylist_specific_hide.txt ***
 gelbooru.com##.headerAd
