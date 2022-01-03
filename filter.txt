@@ -1,1 +1,3 @@
-
+!------------------------Specific element hiding rules------------------------!
+! *** easylist:easylist/easylist_specific_hide.txt ***
+gelbooru.com##.headerAd
